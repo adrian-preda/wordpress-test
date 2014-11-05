@@ -1,4 +1,4 @@
 wordpress-test
 ==============
 
-some wordpress work
+some wordpress work with a custom theme
